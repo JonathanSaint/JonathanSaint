@@ -4,10 +4,14 @@
 ### 💻 Developer • Learner • Builder
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jonathansaint=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanSaint&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSaint&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=JonathanSaint&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanSaint&show_icons=true&theme=radical&cache_seconds=21600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSaint&layout=compact&theme=radical&cache_seconds=21600)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanSaint&theme=radical)
+
 
 ---
 
