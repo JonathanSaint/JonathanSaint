@@ -3,18 +3,6 @@
 # 👋 Hi, I’m Jonathan Arinda  
 ### 💻 Developer • Learner • Builder
 
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jonathansaint=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanSaint&show_icons=true&theme=radical&cache_seconds=21600)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSaint&layout=compact&theme=radical&cache_seconds=21600)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanSaint&theme=radical)
-
-
----
-
 </div>
 
 ## 🌐 Socials
@@ -63,16 +51,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions)
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JonathanSaint&theme=radical&margin-w=15)
-
-</div>
-
----
 
 ## ✍️ Random Dev Quote
 <div align="center">
@@ -86,15 +64,6 @@
 ## 🔝 Top Contributed Repositories
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=JonathanSaint&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=JonathanSaint&icon=2&color=6)
-
-</div>
-
----
 
 ## 💰 Support My Work
 <div align="center">
