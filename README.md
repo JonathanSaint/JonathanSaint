@@ -42,7 +42,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions)
 
-
 ## ✍️ Random Dev Quote
 <div align="center">
 
