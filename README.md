@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+there;I'm+Jonathan+Arinda;Developer+Learner+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+there;I'm+Jonathan+Saint+;Developer+Learner+Builder" />
 </p>
 
 ---
