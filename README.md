@@ -1,6 +1,13 @@
-<h1 align="center">👋 Hi, I’m Jonathan Arinda</h1>
 <p align="center">
-💻 Developer • Learner • Builder
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=28
+    &pause=1000
+    &color=F75C7E
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Hi+there+👋;I'm+Jonathan+Arinda;Developer+•+Learner+•+Builder" />
 </p>
 
 ---
@@ -34,7 +41,9 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
 ---
+
 ## 💰 Support My Work
 <p align="center">
   
