@@ -1,9 +1,12 @@
-<div align="center">
-# 👋 Hi, I’m Jonathan Arinda ### 
+<h1 align="center">👋 Hi, I’m Jonathan Arinda</h1>
+<p align="center">
 💻 Developer • Learner • Builder
-</div>
+</p>
+
+---
+
 ## 🌐 Socials
-<div align="left">
+<p align="left">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jonathansaint_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonathanSaint)
@@ -11,7 +14,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmSf4eQuXNC46-uyOV5-YpQ)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jarinda086@gmail.com)
 
-</div>
+</p>
 
 ---
 
@@ -42,21 +45,23 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions)
 
+---
+
 ## ✍️ Random Dev Quote
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanSaint&show_icons=true&theme=radical)
 
+---
 
 ## 💰 Support My Work
-<div align="center">
+<p align="center">
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jarinda086d)
 
-</div>
+</p>
