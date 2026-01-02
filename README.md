@@ -51,8 +51,9 @@
 </div>
 
 ---
-## 📊 GitHub Stats
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSaint&show_icons=true&theme=radical)
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSaint&layout=compact&theme=radical)
+
 
 
 ## 💰 Support My Work
