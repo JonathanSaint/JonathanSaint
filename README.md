@@ -1,16 +1,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=28
+    ?font=JetBrains+Mono
+    &size=26
     &pause=1000
     &color=F75C7E
     &center=true
     &vCenter=true
-    &width=600
-    &lines=Hi+there+👋;I'm+Jonathan+Arinda;Developer+•+Learner+•+Builder" />
+    &width=650
+    &lines=👋+Hi,+I'm+Jonathan+Arinda;Developer+•+Learner+•+Builder;I+love+writing+clean+code" />
 </p>
 
 ---
+
 ### 🧠 Languages & Frameworks
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -37,6 +38,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions)
 
 ---
+
 ## ✍️ Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
