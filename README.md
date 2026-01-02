@@ -51,9 +51,8 @@
 </div>
 
 ---
-
-## 🔝 Top Contributed Repositories
-![Contributions](https://github-contributor-stats.vercel.app/api?username=JonathanSaint&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSaint&show_icons=true&theme=radical)
 
 
 ## 💰 Support My Work
