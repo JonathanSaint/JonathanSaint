@@ -50,9 +50,8 @@
 </div>
 
 ---
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSaint&layout=compact&theme=radical)
-
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanSaint&show_icons=true&theme=radical)
 
 
 ## 💰 Support My Work
