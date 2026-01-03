@@ -32,9 +32,13 @@
 ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions)
-
 <p align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats-blue-chi.vercel.app?user=JonathanSaint&theme=merko&card_width=380)](https://git.io/streak-stats)
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<p align="right">
+
 </p>
   
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jarinda086d)
