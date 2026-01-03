@@ -80,3 +80,7 @@
     />
   </a>
 </p>
+<p align="center" width="420" height="420">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3132pmtyq5wapj6gj7vmmazo2c7q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3132pmtyq5wapj6gj7vmmazo2c7q&redirect=true)
+</p>
