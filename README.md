@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+there;I'm+Jonathan+Saint;Developer+Learner+Builder" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+there;I'm+Jonathan+Saint;Developer+Learner+Builder"
     alt="Typing SVG"
   />
 </p>
+
+---
+
+## 🧠 Languages • Frameworks • Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -35,36 +39,28 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats-blue-chi.vercel.app?user=JonathanSaint&theme=merko&card_width=380" 
-    alt="GitHub Streak"
-  />
-  <br><br>
-  <img 
-    src="https://github-readme-stats-ddski.vercel.app/api?username=JonathanSaint&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
-  />
-</p>
+---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-ddski.vercel.app/api/top-langs/?username=JonathanSaint&layout=compact&theme=tokyonight" 
-    alt="Top Languages"
-  />
-</p>
+## 📊 GitHub Stats
 
+| 🔥 Streak | 📈 Stats |
+|----------|---------|
+| <img src="https://github-readme-streak-stats-blue-chi.vercel.app?user=JonathanSaint&theme=merko&card_width=380" /> | <img src="https://github-readme-stats-ddski.vercel.app/api?username=JonathanSaint&show_icons=true&theme=tokyonight" /> |
 
-<p align="center">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
-    alt="Quote"
-  />
-</p>
+---
 
+## 📚 Languages & Inspiration
+
+| 💻 Top Languages | 💬 Quote |
+|------------------|---------|
+| <img src="https://github-readme-stats-ddski.vercel.app/api/top-langs/?username=JonathanSaint&layout=compact&theme=tokyonight" /> | <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> |
+
+---
 
 <p align="center">
   <a href="https://buymeacoffee.com/jarinda086d">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+    />
   </a>
 </p>
